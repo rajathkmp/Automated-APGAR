@@ -1,7 +1,5 @@
 # Connected-APGAR
 
-### This project was done for InMobi HackDay 2016
-
 Automated APGAR Scoring
 
 Team:
