@@ -1,6 +1,4 @@
-# Connected-APGAR
-
-Automated APGAR Scoring
+### Automated APGAR Scoring
 
 Team:
 - Rajath Kumkar M P
