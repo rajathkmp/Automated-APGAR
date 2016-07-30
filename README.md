@@ -1,7 +1,7 @@
 ### Automated APGAR Scoring
 
 Team:
-- Rajath Kumkar M P
+- Rajath Kumar M P
 - Sravan Ravi
 - Nishanth N Bhonsle
 
